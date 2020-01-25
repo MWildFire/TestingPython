@@ -18,6 +18,4 @@ for one_game in soup.find_all(''):
 '''
 
 
-#print(soup.find('span', {'class':'title'}).text)
-
 
